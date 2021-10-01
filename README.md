@@ -4,6 +4,12 @@ Following is a demonstration of how Datasmoothie's [Tally](https://tally.datasmo
 it's [Python client library](https://github.com/datasmoothie/tally-client) can be used for
 data processing, analysis, and the generation of outputs for Excel and Powerpoint.
 
+To dive straight in yourself, use the [demo notebook](https://github.com/datasmoothie/tally-demonstration/blob/main/Build%20Excel%20and%20Powerpoint%20from%20CSV.ipynb).
+
+This project has also been configured to run with Gitpod, try it here:
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/datasmoothie/tally-demonstration)
+
 ## Reading different file types
 We start by reading data from SPSS on one hand and a CSV file on the other.
 

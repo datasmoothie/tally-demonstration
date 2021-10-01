@@ -1,0 +1,5 @@
+tasks:
+  - init: pip install datasmoothie-tally-client
+ports:
+  - port: 9000-9999
+    onOpen: ignore
